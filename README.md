@@ -7,7 +7,7 @@ usa la libreria loombok en maven.
 <h1 align="center"> Su título aquí </h1>
 
 <p align="left">
-   
+   <img src="https://i.imgur.com/ZWnhY9T.png" width=50% height=50%>
   [![Alt text](https://img.youtube.com/vi/DYylwrSYD2c/0.jpg)](https://www.youtube.com/watch?v=DYylwrSYD2c)
  
 <a href="url"><img src="http://url.to/image.png" align="left" height="48" width="48" ></a>
