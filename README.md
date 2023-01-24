@@ -7,8 +7,7 @@ usa la libreria loombok en maven.
 <h1 align="center"> Su título aquí </h1>
 
 <p align="left">
-   <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green">
-   </p>
+   
    
    
       
@@ -37,6 +36,6 @@ usa la libreria loombok en maven.
 * [Licencia](#licencia)
 
 *[Conclusión](#conclusión)
-R
+ 
 
 
