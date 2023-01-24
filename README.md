@@ -9,13 +9,7 @@ usa la libreria loombok en maven.
 <p align="left">
    
   [![Alt text](https://img.youtube.com/vi/DYylwrSYD2c/0.jpg)](https://www.youtube.com/watch?v=DYylwrSYD2c)
-   
-     <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/DYylwrSYD2c?start=76" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-   
-    [![Alt text]
-    <iframe width="560" height="315" </iframe>
-   (https://img.youtube.com/vi/DYylwrSYD2c/0.jpg)](https://www.youtube.com/watch?v=DYylwrSYD2c)
-      ##Índice
+ 
 <a href="url"><img src="http://url.to/image.png" align="left" height="48" width="48" ></a>
 
 *[Título e imagen de portada](#Título-e-imagen-de-portada)
