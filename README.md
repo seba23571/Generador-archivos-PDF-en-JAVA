@@ -34,7 +34,7 @@ usa la libreria loombok en maven.
 *[Personas-Desarrolladores del Proyecto](#personas-desarrolladores)
 
 * [Licencia](#licencia)
-
+ https://docs.google.com/document/d/1WBo97J5KyZK-u8wQhFbuMZDgDC6OVpoX4I_3NykpYFU/edit
 *[Conclusión](#conclusión)
  
 
